@@ -2,7 +2,6 @@
 <h3 align="center">A developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsen1254&label=Profile%20views&color=0e75b6&style=flat" alt="yashsen1254" /> </p>
 - 🔭 I’m currently studying for a bachelor's degree <br>
 - 🌱 I’m currently learning DSA
 
