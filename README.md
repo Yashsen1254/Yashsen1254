@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsen1254&show_icons=true&locale=en" alt="yashsen1254" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsen1254&" alt="yashsen1254" /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashsen1254&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
